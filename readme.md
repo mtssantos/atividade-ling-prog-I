@@ -1,0 +1,4 @@
+PROJETO BANCO VIRTUAL ( Arthur Jorge Vieira, Mateus Costa dos Santos, Othon Xavier Nery Neto, Carlos Henrique Pessoa de Almeida)
+
+Introdução
+Densenvolvemos um programa que tem como finalidade a solidificação de uma ideia de um banco digital onde você consegue aplicar todos os conceitos vistos em aula de POO(programação orientada a objetos)como criação de classes e metodos, a correlação entre elas, a consolidação do conhecimento efetuado pela necessidade de buscar a lógica em cada um dos métodos efetuando assim um entendimento mais completo, profundo e duradouro do assunto. Acreditamos que a importancia desse projeto seja justamente essa, a consolidação do entendimento do assunto, poder manipular livremente as classes e os metodos, mostrando o dominio do assunto e limitando as possibilidades apenas a sua propria criatividade.
